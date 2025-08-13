@@ -48,14 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](./profile-summary-card-output/0-profile-details/VisweshBonam.svg)
-![](./profile-summary-card-output/1-repos-per-language/VisweshBonam.svg)
-![](./profile-summary-card-output/2-most-commit-language/VisweshBonam.svg)
-![](./profile-summary-card-output/3-stats/VisweshBonam.svg)
-
----
 
 ## 📈 Contribution Graph
 [![Viswesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VisweshBonam&bg_color=0f0c29&color=ffffff&line=4e54c8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
