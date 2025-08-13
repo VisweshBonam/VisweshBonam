@@ -6,13 +6,10 @@
 ---
 
 ## 💡 About Me
-🚀 Cloud Native Engineer focused on building **scalable**, **automated**, and **secure** systems using Kubernetes, Docker, and CI/CD.  
-I design and implement architectures that can handle millions of users with **zero downtime**.
+🚀 Cloud Native Engineer focused on building **scalable**, **automated**, and **secure** systems using Kubernetes, Docker, and CI/CD.
 
 💼 **Specialties:**  
-- Cloud Infrastructure Automation  
 - Kubernetes & Container Orchestration  
-- DevOps Toolchain Optimization  
 - Infrastructure as Code (IaC)  
 
 ---
@@ -25,9 +22,7 @@ I design and implement architectures that can handle millions of users with **ze
 ---
 
 ## 🚀 Currently Working On
-- 🏗 Designing highly available **Kubernetes clusters** for production  
 - ⚙️ Automating deployments with **Helm Charts**  
-- 📦 Building CI/CD pipelines using **GitHub Actions + ArgoCD**
 
 ---
 
@@ -57,12 +52,6 @@ I design and implement architectures that can handle millions of users with **ze
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VisweshBonam&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
 
 ## 📫 Connect with Me
 <p align="center">
