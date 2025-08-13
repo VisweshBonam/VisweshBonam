@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=250&section=header&text=Viswesh%20Bonam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20Engineer%20%7C%20Kubernetes%20%26%20Docker%20Expert&descAlignY=55&descAlign=50" />
+  <img src="C:\Users\mailt\OneDrive\Desktop\banner.jpg" />
 </p>
 
 ---
