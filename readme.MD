@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="C:\Users\mailt\OneDrive\Desktop\banner.jpg" />
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/images/banner.jpg" />
 </p>
 
 ---
