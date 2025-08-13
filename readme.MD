@@ -39,10 +39,12 @@
 ---
 
 ## 📊 GitHub Overview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="150"/>
-  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/profile-summary-card-output/tokyonight/3-stats.svg" height="150"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisweshBonam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisweshBonam&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=VisweshBonam&theme=tokyonight)
 
 ---
 
