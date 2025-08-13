@@ -1,72 +1,75 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Viswesh%20Bonam&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">👋 Hey, I’m Viswesh Bonam</h2>
-<p align="center">
-🚀 Cloud-native engineer passionate about scalable, automated, and secure infrastructure.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=250&section=header&text=Viswesh%20Bonam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20Engineer%20%7C%20Kubernetes%20%26%20Docker%20Expert&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
-### 💡 About Me
-- 💻 Kubernetes, Docker, Helm, GitOps enthusiast  
-- 🛠 Automating deployments with CI/CD pipelines  
-- 📚 Sharing tech insights on [Medium](https://medium.com/@mailtovishu77)  
+## 💡 About Me
+- 💻 Cloud Native Engineer specialized in Kubernetes, Docker, and Helm  
+- 🛠 I automate deployments with CI/CD pipelines & GitOps  
+- 📚 Author at [Medium](https://medium.com/@mailtovishu77)  
 - 🌏 Based in Hyderabad, India  
+- ☕ Fueled by coffee & curiosity
 
 ---
 
-### 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisweshBonam&repo=k8-roboshop-helm&theme=tokyonight)](https://github.com/VisweshBonam/k8-roboshop-helm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisweshBonam&repo=docker&theme=tokyonight)](https://github.com/VisweshBonam/docker)
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**k8-roboshop-helm**](https://github.com/VisweshBonam/k8-roboshop-helm) | Kubernetes Helm charts for Roboshop Microservices | Helm, Kubernetes |
+| [**docker**](https://github.com/VisweshBonam/docker) | Containerized environments with best practices | Docker, Shell |
 
 ---
 
-### 🛠 Tech Stack
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-277a9f?style=for-the-badge&logo=helm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisweshBonam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisweshBonam&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,jenkins,git,linux,bash,ansible&theme=dark" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VisweshBonam&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisweshBonam&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
 [![Viswesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VisweshBonam&bg_color=0f0c29&color=ffffff&line=4e54c8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🎵 Now Playing on Spotify
+## 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
   </a>
 </p>
 
 ---
 
-### 📰 Latest Medium Articles
+## 📰 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### ✨ Fun Fact
-> "Kubernetes is like chess — easy to learn, impossible to master. But I’m still trying." ♟️
+## 💬 Quote of the Day
+> "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+## 🖥 My Dev Setup
+- OS: Ubuntu 22.04 LTS
+- Editor: VSCode + JetBrains IDEA
+- Terminal: zsh + Oh-My-Zsh
+- Font: JetBrains Mono
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
