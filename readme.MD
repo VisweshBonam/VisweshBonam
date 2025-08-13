@@ -8,27 +8,7 @@
 ## 💡 About Me
 Cloud Native Engineer passionate about building scalable, automated, and secure systems using Kubernetes, Docker, and CI/CD.
 
----
 
-## 🚀 Impact Highlights
-- 🏆 Designed and deployed Kubernetes Helm charts for multi-service production apps  
-- 🔄 Automated end-to-end CI/CD pipelines reducing deployment time by 60%  
-- 🌐 Contributed to open-source DevOps tooling used by 500+ developers  
-- 🛠 Built reusable Docker images for microservices architecture
-
----
-
-## 🌍 Open Source Footprint
-![Profile Views](https://komarev.com/ghpvc/?username=VisweshBonam&color=blue&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/VisweshBonam?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/VisweshBonam?style=social)
-
----
-
-## 🎯 Certifications & Achievements
-- ☸ Certified Kubernetes Administrator (CKA) *(If you have this, else replace)*  
-- 🐳 Docker Certified Associate *(If applicable)*  
-- 🎓 Jenkins Expert Badge *(Add more relevant badges here)*  
 
 ---
 
