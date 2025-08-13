@@ -6,15 +6,34 @@
 ---
 
 ## 💡 About Me
-Cloud Native Engineer passionate about building scalable, automated, and secure systems using Kubernetes, Docker, and CI/CD.
+🚀 Cloud Native Engineer focused on building **scalable**, **automated**, and **secure** systems using Kubernetes, Docker, and CI/CD.  
+I design and implement architectures that can handle millions of users with **zero downtime**.
 
-
+💼 **Specialties:**  
+- Cloud Infrastructure Automation  
+- Kubernetes & Container Orchestration  
+- DevOps Toolchain Optimization  
+- Infrastructure as Code (IaC)  
 
 ---
 
 ## 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,ansible,terraform,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,ansible,terraform,aws,helm,githubactions&theme=dark" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+- 🏗 Designing highly available **Kubernetes clusters** for production  
+- ⚙️ Automating deployments with **Helm Charts**  
+- 📦 Building CI/CD pipelines using **GitHub Actions + ArgoCD**
+
+---
+
+## 🏗 Featured Architecture
+<p align="center">
+  <img src="./images/roboshop-architecture.png" alt="Roboshop 3-Tier Architecture" width="800"/>
 </p>
 
 ---
@@ -25,16 +44,32 @@ Cloud Native Engineer passionate about building scalable, automated, and secure 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisweshBonam&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisweshBonam&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="150"/>
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/profile-summary-card-output/tokyonight/3-stats.svg" height="150"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 [![Viswesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VisweshBonam&bg_color=0f0c29&color=ffffff&line=4e54c8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VisweshBonam&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/VisweshBonam"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mailtovishu77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://medium.com/@mailtovishu77"><img src="https://skillicons.dev/icons?i=medium" /></a>
+</p>
 
 ---
 
