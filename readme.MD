@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://github.com/VisweshBonam/VisweshBonam/blob/main/banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/VisweshBonam/Viswesh-Bonam/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 ---
 
