@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/banner.jpg" alt="Github Banner"/>
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/banner.jpg" alt="Github Banner" width="800"/>
 </div>
----
+
 
 ## 💡 About Me
 🚀 Cloud Native Engineer focused on building **scalable**, **automated**, and **secure** systems using Kubernetes, Docker, and CI/CD.
