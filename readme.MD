@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/images/banner.jpg" alt="Header Banner" />
-</p>
+<div align="center">
+  <img src="https://github.com/VisweshBonam/VisweshBonam/blob/main/banner.png" alt="GitHub Banner" width="800"/>
+</div>
 ---
 
 ## 💡 About Me
