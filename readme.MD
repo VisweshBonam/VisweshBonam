@@ -55,7 +55,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/VisweshBonam"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/viswesh-bonam/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mailtovishu77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://medium.com/@mailtovishu77"><img src="https://skillicons.dev/icons?i=medium" /></a>
 </p>
