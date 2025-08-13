@@ -30,11 +30,11 @@
   <img src="./images/roboshop-architecture.png" alt="Roboshop 3-Tier Architecture" width="800"/>
 </p>
 
----
+<!-- ---
 
 ## 📌 Featured Projects
 [![k8-roboshop-helm](https://github-readme-stats.vercel.app/api/pin/?username=VisweshBonam&repo=k8-roboshop-helm&theme=tokyonight)](https://github.com/VisweshBonam/k8-roboshop-helm)
-[![docker](https://github-readme-stats.vercel.app/api/pin/?username=VisweshBonam&repo=docker&theme=tokyonight)](https://github.com/VisweshBonam/docker)
+[![docker](https://github-readme-stats.vercel.app/api/pin/?username=VisweshBonam&repo=docker&theme=tokyonight)](https://github.com/VisweshBonam/docker) -->
 
 ---
 
