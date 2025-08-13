@@ -1,8 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https:/github.com/VisweshBonam/VisweshBonam/main/images/banner.jpg" />
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/images/banner.jpg" alt="Header Banner" />
 </p>
-
 ---
 
 ## 💡 About Me
