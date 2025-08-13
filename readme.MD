@@ -34,7 +34,7 @@ Cloud Native Engineer passionate about building scalable, automated, and secure 
 
 ## 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,jenkins,git,linux,bash,ansible,terraform,aws,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,ansible,terraform,aws&theme=dark" />
 </p>
 
 ---
