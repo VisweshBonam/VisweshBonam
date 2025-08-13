@@ -23,12 +23,12 @@
 ## 🚀 Currently Working On
 - ⚙️ Automating deployments with **Helm Charts**  
 
----
+<!-- ---
 
 ## 🏗 Featured Architecture
 <p align="center">
   <img src="./images/roboshop-architecture.png" alt="Roboshop 3-Tier Architecture" width="800"/>
-</p>
+</p> -->
 
 <!-- ---
 
