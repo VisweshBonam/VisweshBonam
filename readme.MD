@@ -55,10 +55,24 @@
 ---
 
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/viswesh-bonam/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mailtovishu77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://medium.com/@mailtovishu77"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.linkedin.com/in/viswesh-bonam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Viswesh%20Bonam-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mailtovishu77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mailtovishu77%40gmail.com-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mailtovishu77">
+    <img src="https://img.shields.io/badge/Medium-%40mailtovishu77-black?logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?logo=firefox&logoColor=white" />
+  </a>
 </p>
+
 
