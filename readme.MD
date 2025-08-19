@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/DevOps.jpeg" alt="Github Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/VisweshBonam/VisweshBonam/main/banner2.jpg" alt="Github Banner" width="800"/>
 </div>
 
 
@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,ansible,terraform,aws,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,jenkins,ansible,terraform,aws,githubactions&theme=dark" />
 </p>
 
 ---
