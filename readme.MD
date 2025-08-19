@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/viswesh-bonam/">
     <img src="https://img.shields.io/badge/LinkedIn-Viswesh%20Bonam-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mailtovishu77@gmail.com">
+  <a href="mailto:mailtoviswesh.bonam@gmail.com">
     <img src="https://img.shields.io/badge/Email-mailtovishu77%40gmail.com-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://medium.com/@mailtovishu77">
