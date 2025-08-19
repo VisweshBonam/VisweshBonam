@@ -73,7 +73,7 @@
 
 
 ## 📈 Contribution Graph
-[![Viswesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VisweshBonam&bg_color=0f0c29&color=ffffff&line=4e54c8&point=ffffff&area=true&hide_border=true)]
+![Viswesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VisweshBonam&bg_color=0f0c29&color=ffffff&line=4e54c8&point=ffffff&area=true&hide_border=true)
 
 
 
