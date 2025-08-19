@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,jenkins,ansible,terraform,aws,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux,bash,jenkins,ansible,terraform,aws&theme=dark" />
 </p>
 
 ---
